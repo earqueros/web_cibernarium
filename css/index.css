@@ -1,0 +1,9 @@
+/* SELECTORES CSS */
+/* Selector de eriqueta (directament amb el nom
+de l'etiqueta del HTML) */
+header{ /*selector css*/
+    height: 150px; /*nom de la propietat: valor de la propietat*/
+    background-color: red;
+
+
+}
